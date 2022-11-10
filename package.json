@@ -9,7 +9,8 @@
     "moralis": "^2.7.1",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-switch": "^7.0.0"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
