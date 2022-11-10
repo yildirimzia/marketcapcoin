@@ -9,8 +9,9 @@ const styles = {
   nav: `flex justify-center items-center gap-[20px]`,
   header: `bg-[#17171A] text-white h-20 flex gap-[100px] w-full p-[30px]`,
   headerWrapper: `flex justify-center h-full max-w-screen-xl mx-auto px-4`,
-  inputContainer: `flex item-center justify-cenyer p-2 rounded bg-[#171924]`,
-  input: `bg-transparent outline-none text-white w-70 ml-3`
+  inputContainer: `flex items-center justify-center p-2 rounded bg-[#171924]`,
+  input: `bg-transparent outline-none text-white w-70 ml-3`,
+  cursorPointer: `mr-5 cursor-pointer`,
 }
 
 const Header = () => {
